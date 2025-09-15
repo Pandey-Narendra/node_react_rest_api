@@ -1,0 +1,11 @@
+install
+
+npm init
+npm install --save express
+npm install --save-dev nodemon
+
+
+PARSE INCOMING REQUEST
+
+npm install --save body-parser
+
